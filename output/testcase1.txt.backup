@@ -1,0 +1,11 @@
+Your flight to <h>Seattle</h> will depart at *DATE*, *TIME*.   #This is a single line comment. String between <h> and </h> will be converted in all uppercase.
+Please arrive the airport 2 <h>hours</h> before flight. Check with airlines for exceptions.   #This is a single line comment. String between <h> and </h> will be converted in all uppercase.
+=begin comment
+This is a multiline comment.
+String *DATE* will be replaced with the input date.
+String *TIME* will be replaced with the input time.
+=cut
+Your flight to <h>Seattle</h> will depart at *DATE*, *TIME*.   
+Your flight to <h>Seattle</h> will depart at 1212-12-12, *TIME*.   
+Your flight to <h>Seattle</h> will depart at 1212-12-12, 12:12.   
+Please arrive the airport 2 <h>hours</h> before flight. Check with airlines for exceptions.   
