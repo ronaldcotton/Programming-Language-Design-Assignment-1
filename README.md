@@ -1,5 +1,5 @@
 # WSU Vancouver - CS355 - Programming Language Design
-## Web Data - Assignment 2 - WSU Vancouver
+## Web Data - Assignment 1 - WSU Vancouver
 ## Perl Regular Expression/User Input/FileIO Exercise
 ### Abstract
 This program processes a text file that has singleline and multiline comments, subsitutes user input for time and date tags, and uppercases single and multiline h tags.
