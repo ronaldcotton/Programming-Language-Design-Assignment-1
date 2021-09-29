@@ -11,7 +11,6 @@ Perl
 Program tested on *Ubuntu 16.04* running *perl v5.22.1.*
 
 ### Executing
-*The webscrapper which websrapped Wikipedia has already constructed the database, images were added later to the database*
 ```sh
     perl ass1.pl
 ```
